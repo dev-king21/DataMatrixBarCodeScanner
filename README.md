@@ -1,5 +1,6 @@
 # DataMatrixBarCodeScanner
 
+ Author: Danis Balin
  MERN Stack (Typescript Project) using react webcam and zxing library
 
 # Download or Clone this project and Install node modules

@@ -1,0 +1,5 @@
+/node_modules
+/resources/node_modules
+/resources/build
+package-lock.json
+yarn.lock

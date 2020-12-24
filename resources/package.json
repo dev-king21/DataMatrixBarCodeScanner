@@ -1,0 +1,43 @@
+{
+  "name": "create-react-app-with-typescript",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@zxing/library": "^0.17.0",
+    "react": "latest",    
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "react-webcam": "^5.0.1",
+    "typescript": "latest"
+  },
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "*"
+    }
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "watch": "npm-watch",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
